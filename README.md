@@ -18,7 +18,7 @@ de desenvolvimento — não é necessário instalar nada localmente, basta uma c
 | **Disciplina** | IAL-003 – Algoritmos e Programação de Computadores (Presencial — 80 aulas) |
 | **Turma** | 1º ano — 2º Ciclo |
 | **Professor** | Anderson Silva Vanin |
-| **Horário** | Sextas-feiras, 7h40–11h10 (4 h/a) + reposições em terças/quartas |
+| **Horário** | Sextas-feiras, 7h40–11h10 (4 h/a) |
 | **Linguagem** | Python 3 |
 | **Ambiente** | Google Colab |
 
@@ -46,10 +46,8 @@ programas de computador.
 
 ```
 ├── README.md
-├── cronograma/
-│   ├── Cronograma_IAL-003_Algoritmos_2026-2.xlsx
-│   └── Cronograma_IAL-003_Algoritmos_2026-2.docx
-└── notebooks/
+├── Cronograma_IAL-003_Algoritmos_2026-2.pdf
+└── aulas/
     ├── Aula_01_Introducao_Logica_e_Primeiro_Programa.ipynb
     ├── Aula_02_Tipos_de_Dados_e_Entrada_de_Dados.ipynb
     ├── Aula_03_Expressoes_Aritmeticas_e_Operadores.ipynb
@@ -64,9 +62,8 @@ com **células de código executáveis** e uma seção de **exercícios prático
 ## 🗓️ Cronograma resumido
 
 O cronograma completo (26 sessões, entre aulas regulares e reposições) está disponível em
-[`cronograma/Cronograma_IAL-003_Algoritmos_2026-2.xlsx`](cronograma/Cronograma_IAL-003_Algoritmos_2026-2.xlsx)
-e em formato Word em
-[`cronograma/Cronograma_IAL-003_Algoritmos_2026-2.docx`](cronograma/Cronograma_IAL-003_Algoritmos_2026-2.docx).
+[`Cronograma_IAL-003_Algoritmos_2026-2.pdf`](Cronograma_IAL-003_Algoritmos_2026-2.pdf)
+
 
 | Aula | Data | Tipo | Conteúdo |
 |---|---|---|---|
@@ -90,9 +87,9 @@ e em formato Word em
 |---|---|---|
 | **P1** | Lógica de algoritmos, tipos de dados, expressões, sequência e seleção | 16/10/2026 |
 | **P2** | Estruturas de repetição, listas, matrizes, strings e funções | 13/11/2026 |
-| **P3** | Entrega/apresentação de projeto final estruturado | 04/12/2026 |
+| **P3** | Entrega/apresentação de projeto final estruturado | 04/12/2026 | *A COMBINAR*
 
-Além das provas, listas de exercícios e um **projeto prático integrador** também compõem a avaliação
+Além das provas, listas de exercícios e um **projeto prático** também compõem a avaliação
 contínua ao longo do semestre.
 
 ---
