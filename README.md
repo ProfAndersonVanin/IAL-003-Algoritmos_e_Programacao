@@ -1,2 +1,141 @@
-# IAL-003-Algoritmos_e_Programacao
-IAL-003-Algoritmos_e_Programacao
+# IAL-003 — Algoritmos e Programação de Computadores
+
+Repositório de apoio da disciplina **IAL-003 – Algoritmos e Programação de Computadores**, do curso
+**Informática para Negócios** da **Fatec Mauá** (Centro Paula Souza), referente ao **2º semestre de
+2026**.
+
+Todo o conteúdo prático é desenvolvido em **Python 3**, utilizando o **Google Colab** como ambiente
+de desenvolvimento — não é necessário instalar nada localmente, basta uma conta Google.
+
+---
+
+## 📋 Informações gerais
+
+| | |
+|---|---|
+| **Instituição** | Fatec Mauá — Centro Paula Souza |
+| **Curso** | Informática para Negócios (Matutino) |
+| **Disciplina** | IAL-003 – Algoritmos e Programação de Computadores (Presencial — 80 aulas) |
+| **Turma** | 1º ano — 2º Ciclo |
+| **Professor** | Anderson Silva Vanin |
+| **Horário** | Sextas-feiras, 7h40–11h10 (4 h/a) + reposições em terças/quartas |
+| **Linguagem** | Python 3 |
+| **Ambiente** | Google Colab |
+
+---
+
+## 🎯 Objetivo da disciplina
+
+Analisar problemas e projetar e validar soluções computacionais para eles, por meio de metodologias,
+técnicas e ferramentas de programação envolvendo os elementos básicos da construção de algoritmos e
+programas de computador.
+
+## 📚 Ementa
+
+- Método para desenvolvimento de algoritmos;
+- Modularidade e abstração;
+- Tipos de dados básicos e representações gráficas dos principais comandos em uma linguagem
+  procedural;
+- Expressões aritméticas, lógicas e literais;
+- Estruturas básicas de programas (sequência, iteração, seleção simples e múltipla);
+- Desenvolvimento de programas estruturados para a manipulação de estruturas básicas.
+
+---
+
+## 🗂️ Estrutura do repositório
+
+```
+├── README.md
+├── cronograma/
+│   ├── Cronograma_IAL-003_Algoritmos_2026-2.xlsx
+│   └── Cronograma_IAL-003_Algoritmos_2026-2.docx
+└── notebooks/
+    ├── Aula_01_Introducao_Logica_e_Primeiro_Programa.ipynb
+    ├── Aula_02_Tipos_de_Dados_e_Entrada_de_Dados.ipynb
+    ├── Aula_03_Expressoes_Aritmeticas_e_Operadores.ipynb
+    └── ...
+```
+
+Cada notebook de aula traz a **contextualização teórica** do tema (em células Markdown) intercalada
+com **células de código executáveis** e uma seção de **exercícios práticos** ao final.
+
+---
+
+## 🗓️ Cronograma resumido
+
+O cronograma completo (26 sessões, entre aulas regulares e reposições) está disponível em
+[`cronograma/Cronograma_IAL-003_Algoritmos_2026-2.xlsx`](cronograma/Cronograma_IAL-003_Algoritmos_2026-2.xlsx)
+e em formato Word em
+[`cronograma/Cronograma_IAL-003_Algoritmos_2026-2.docx`](cronograma/Cronograma_IAL-003_Algoritmos_2026-2.docx).
+
+| Aula | Data | Tipo | Conteúdo |
+|---|---|---|---|
+| 1 | 28/08/2026 | Regular | Apresentação da disciplina, lógica de programação, ambiente Colab, `print()` e variáveis |
+| 2 | 01/09/2026 | Reposição | Tipos de dados básicos (`int`, `float`, `str`, `bool`) e `input()` |
+| 3 | 02/09/2026 | Reposição | Expressões aritméticas, operadores e precedência |
+| 4 | 04/09/2026 | Regular | Expressões lógicas/relacionais e estruturas de sequência |
+| ... | ... | ... | ... |
+| — | 16/10/2026 | **Avaliação** | **P1** |
+| — | 13/11/2026 | **Avaliação** | **P2** |
+| — | 04/12/2026 | **Avaliação** | **P3** |
+
+> 📌 O cronograma completo (com todas as 26 datas, reposições e conteúdos) está nos arquivos citados
+> acima.
+
+---
+
+## ✅ Critérios de avaliação
+
+| Avaliação | Conteúdo cobrado | Data |
+|---|---|---|
+| **P1** | Lógica de algoritmos, tipos de dados, expressões, sequência e seleção | 16/10/2026 |
+| **P2** | Estruturas de repetição, listas, matrizes, strings e funções | 13/11/2026 |
+| **P3** | Entrega/apresentação de projeto final estruturado | 04/12/2026 |
+
+Além das provas, listas de exercícios e um **projeto prático integrador** também compõem a avaliação
+contínua ao longo do semestre.
+
+---
+
+## ▶️ Como usar os notebooks
+
+1. Acesse o arquivo `.ipynb` desejado diretamente no GitHub;
+2. Clique em **"Open in Colab"** (ou abra manualmente em [colab.research.google.com](https://colab.research.google.com) → *Upload* → selecione o arquivo);
+3. Execute as células em ordem, usando `Shift + Enter`;
+4. Resolva os exercícios propostos nas células indicadas ao final de cada notebook;
+5. Salve uma cópia no seu Google Drive (*Arquivo → Salvar uma cópia no Drive*) para manter seu
+   progresso.
+
+---
+
+## 📖 Bibliografia
+
+**Básica**
+- ARAUJO, E. C. de. *Algoritmos – Fundamento e Prática*. Visual Books, 2007.
+- ASCENCIO, A. F. G.; CAMPOS, E. A. V. *Fundamentos da Programação de Computadores: algoritmos,
+  Pascal e C/C++ e Java*. São Paulo: Longman, 2007.
+- FORBELLONE, L. V.; EBERSPÄCHER, H. F. *Lógica de Programação: a construção de algoritmos e
+  estruturas de dados*. São Paulo: Prentice Hall, 2005.
+
+**Complementar**
+- FEOFILOFF, P. *Algoritmos em Linguagem C*. São Paulo: Campus, 2009.
+- FRIEDMAN, D.; WAND, M.; HAYNES, C. *Fundamentos de Linguagem de Programação*. Berkeley, 2001.
+- SEBESTA, R. W. *Conceitos de Linguagem de Programação*. Porto Alegre: Bookman, 2003.
+- SILVA, F. S. C. da; MELO, A. C. *Princípios de Linguagens de Programação*. Edgard Blucher, 2003.
+
+**Eletrônicos**
+- DOWNEY, A.; ELKNER, J.; MEYERS, C. *Como Pensar como um Cientista da Computação*. GNU.
+- DOWNEY, A. *Think Python*. GNU Free Documentation License, 2008.
+
+---
+
+## 👤 Contato
+
+**Anderson Silva Vanin**
+Professor — Fatec Mauá / Centro Paula Souza
+[LinkedIn](https://linkedin.com/in/anderson-vanin)
+
+---
+
+*Repositório de apoio didático — uso restrito à turma de Informática para Negócios, Fatec Mauá,
+2º semestre de 2026.*
