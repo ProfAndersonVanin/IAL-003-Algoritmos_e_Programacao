@@ -79,45 +79,27 @@ sextas-feiras**, até o encerramento do semestre em 11/12/2026.
 
 **ATÉ AQUI TOTAL ==>  24 H/A**
 
-### 🔜 Aulas restantes (todas às sextas-feiras)
+### 🔜 Aulas restantes
 
 
 
 | Nº | Data | Conteúdo |
 |---|---|---|
-
-
 | 06 | 16/10/2026 | **AVALIAÇÃO P1**  - **4h/a**  - NORMAL |
-
 | 07 | 23/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) - **4h/a**  - NORMAL |
-
 | 08 | 27/10/2026 | Estruturas de seleção múltipla (`elif`) e exercícios práticos - **4h/a** ANTES E DEPOIS DA AULA - REPÕE DIA 18/09 |
-
 | 09 | 30/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) - **4h/a**  - NORMAL |
-
 | 10 | 03/11/2026 | Exercícios integrados — revisão geral (lógica, tipos, expressões, sequência, seleção) - **2h/a** - REPÕE DIA 25/09 |
-
 | 10 | 04/11/2026 | Exercícios integrados — revisão geral (lógica, tipos, expressões, sequência, seleção) - **2h/a** - REPÕE DIA 25/09 |
-
 | 11 | 06/11/2026 | Estruturas de repetição: `while`, `for` e laços aninhados - **4h/a**  - NORMAL |
-
 | 12 | 10/11/2026 | Modularidade e abstração: funções (`def`), parâmetros e retorno - **2h/a** - REPÕE DIA 02/10 |
-
 | 12 | 11/11/2026 | Modularidade e abstração: funções (`def`), parâmetros e retorno - **2h/a** - REPÕE DIA 02/10 |
-
 | 14 | 13/11/2026 | **AVALIAÇÃO P2** | - **4h/a** - NORMAL |
-
 | 15 | 17/11/2026 | Funções (aprofundamento), modularização de programas  **2h/a** - REPÕE DIA 09/10 |
-
 | 15 | 18/11/2026 | Funções (aprofundamento), modularização de programas  **2h/a** - REPÕE DIA 09/10 |
-
 | 13 | 27/11/2026 | Listas, matrizes e strings - **4h/a** - NORMAL |
-
 | 14 | 04/12/2026 | **AVALIAÇÃO P3** - **4h/a** - NORMAL |
-
 | 15 | 11/12/2026 | DIVULGAÇÃO DOS RESULTADOS FINAIS - **4h/a** - NORMAL |
-
-
 
 
 **AUSÊNCIAS PROGRAMADAS: 18/09, 25/09, 02/10, 09/10 (TOTAL DE AUSENCIAS ==> 16 H/A)** 
