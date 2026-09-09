@@ -69,43 +69,58 @@ sextas-feiras**, até o encerramento do semestre em 11/12/2026.
 
 | Nº | Data | Conteúdo |
 |---|---|---|
-| 1 | 28/08/2026 | Apresentação da disciplina, lógica de programação, ambiente Colab, `print()` e variáveis | - **4h/a** - NORMAL
-| 2 | 01/09/2026 | Tipos de dados básicos (`int`, `float`, `str`, `bool`) e `input()` | - **2h/a** - REPÕE DIA 07/08
-| 2 | 02/09/2026 | Tipos de dados básicos (`int`, `float`, `str`, `bool`) e `input()` | - **2h/a** - REPÕE DIA 07/08
-| 3 | 04/09/2026 | Expressões aritméticas, operadores e precedência | - **4h/a** - NORMAL
-| 4 | 08/09/2026 | Expressões aritméticas, operadores e precedência | - **2h/a** - REPÕE DIA 14/08
-| 4 | 09/09/2026 | Expressões aritméticas, operadores e precedência | - **2h/a** - REPÕE DIA 14/08
-| 5 | 11/09/2026 | Expressões lógicas/relacionais e estruturas de sequência | - **4h/a** - NORMAL
+| 1 | 28/08/2026 | Apresentação da disciplina, lógica de programação, ambiente Colab, `print()` e variáveis - **4h/a** - NORMAL |
+| 2 | 01/09/2026 | Tipos de dados básicos (`int`, `float`, `str`, `bool`) e `input()` - **2h/a** - REPÕE DIA 07/08 |
+| 2 | 02/09/2026 | Tipos de dados básicos (`int`, `float`, `str`, `bool`) e `input()` - **2h/a** - REPÕE DIA 07/08 |
+| 3 | 04/09/2026 | Expressões aritméticas, operadores e precedência - **4h/a** - NORMAL |
+| 4 | 08/09/2026 | Expressões aritméticas, operadores e precedência - **2h/a** - REPÕE DIA 14/08 |
+| 4 | 09/09/2026 | Expressões aritméticas, operadores e precedência - **2h/a** - REPÕE DIA 14/08 |
+| 5 | 11/09/2026 | Expressões lógicas/relacionais e estruturas de sequência - **4h/a** - NORMAL |
 
 **ATÉ AQUI TOTAL ==>  24 H/A**
 
 ### 🔜 Aulas restantes (todas às sextas-feiras)
 
-**AUSÊNCIAS PROGRAMADAS: 18/09, 25/09, 02/10, 09/10 (TOTAL DE AUSENCIAS ==> 16 H/A)** 
+
 
 | Nº | Data | Conteúdo |
 |---|---|---|
 
 
+| 06 | 16/10/2026 | **AVALIAÇÃO P1**  - **4h/a**  - NORMAL |
+
+| 07 | 23/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) - **4h/a**  - NORMAL |
+
+| 08 | 27/10/2026 | Estruturas de seleção múltipla (`elif`) e exercícios práticos - **4h/a** ANTES E DEPOIS DA AULA - REPÕE DIA 18/09 |
+
+| 09 | 30/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) - **4h/a**  - NORMAL |
+
+| 10 | 03/11/2026 | Exercícios integrados — revisão geral (lógica, tipos, expressões, sequência, seleção) - **2h/a** - REPÕE DIA 25/09 |
+
+| 10 | 04/11/2026 | Exercícios integrados — revisão geral (lógica, tipos, expressões, sequência, seleção) - **2h/a** - REPÕE DIA 25/09 |
+
+| 11 | 06/11/2026 | Estruturas de repetição: `while`, `for` e laços aninhados - **4h/a**  - NORMAL |
+
+| 12 | 10/11/2026 | Modularidade e abstração: funções (`def`), parâmetros e retorno - **2h/a** - REPÕE DIA 02/10 |
+
+| 12 | 11/11/2026 | Modularidade e abstração: funções (`def`), parâmetros e retorno - **2h/a** - REPÕE DIA 02/10 |
+
+| 14 | 13/11/2026 | **AVALIAÇÃO P2** | - **4h/a** - NORMAL |
+
+| 15 | 17/11/2026 | Funções (aprofundamento), modularização de programas  **2h/a** - REPÕE DIA 09/10 |
+
+| 15 | 18/11/2026 | Funções (aprofundamento), modularização de programas  **2h/a** - REPÕE DIA 09/10 |
+
+| 13 | 27/11/2026 | Listas, matrizes e strings - **4h/a** - NORMAL |
+
+| 14 | 04/12/2026 | **AVALIAÇÃO P3** - **4h/a** - NORMAL |
+
+| 15 | 11/12/2026 | DIVULGAÇÃO DOS RESULTADOS FINAIS - **4h/a** - NORMAL |
 
 
-| 06 | 16/10/2026 | **AVALIAÇÃO P1** | - **4h/a**  - NORMAL
-| 07 | 23/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) | - **4h/a**  - NORMAL
-| 08 | 27/10/2026 | Estruturas de seleção múltipla (`elif`) e exercícios práticos | - **4h/a** ANTES E DEPOIS DA AULA - REPÕE DIA 18/09
-| 09 | 30/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) | - **4h/a**  - NORMAL
-| 10 | 03/11/2026 | Exercícios integrados — revisão geral (lógica, tipos, expressões, sequência, seleção) | - **2h/a** - REPÕE DIA 25/09
-| 10 | 04/11/2026 | Exercícios integrados — revisão geral (lógica, tipos, expressões, sequência, seleção) | - **2h/a** - REPÕE DIA 25/09
-| 11 | 06/11/2026 | Estruturas de repetição: `while`, `for` e laços aninhados | - **4h/a**  - NORMAL
-| 12 | 10/11/2026 | Modularidade e abstração: funções (`def`), parâmetros e retorno |- **2h/a** - REPÕE DIA 02/10
-| 12 | 11/11/2026 | Modularidade e abstração: funções (`def`), parâmetros e retorno |- **2h/a** - REPÕE DIA 02/10
-| 14 | 13/11/2026 | **AVALIAÇÃO P2** | - **4h/a** - NORMAL
-| 15 | 17/11/2026 | Funções (aprofundamento), modularização de programas | **2h/a** - REPÕE DIA 09/10
-| 15 | 18/11/2026 | Funções (aprofundamento), modularização de programas | **2h/a** - REPÕE DIA 09/10
-| 13 | 27/11/2026 | Listas, matrizes e strings | - **4h/a** - NORMAL
-| 14 | 04/12/2026 | **AVALIAÇÃO P3** | - **4h/a** - NORMAL
-| 15 | 11/12/2026 | DIVULGAÇÃO DOS RESULTADOS FINAIS | - **4h/a** - NORMAL
 
 
+**AUSÊNCIAS PROGRAMADAS: 18/09, 25/09, 02/10, 09/10 (TOTAL DE AUSENCIAS ==> 16 H/A)** 
 
 O cronograma detalhado, com observações de cada sessão, também está disponível em
 [`Cronograma_IAL-003_Algoritmos_2026-2.pdf`](Cronograma_IAL-003_Algoritmos_2026-2.pdf).
