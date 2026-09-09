@@ -59,25 +59,54 @@ com **células de código executáveis** e uma seção de **exercícios prático
 
 ---
 
-## 🗓️ Cronograma resumido
+## 🗓️ Cronograma
 
-O cronograma completo (26 sessões, entre aulas regulares e reposições) está disponível em
-[`Cronograma_IAL-003_Algoritmos_2026-2.pdf`](Cronograma_IAL-003_Algoritmos_2026-2.pdf)
+O cronograma foi reorganizado a partir da aula 6: as aulas 1 a 5 já foram ministradas (incluindo
+reposições em terças/quartas); a partir daí, todas as aulas seguem normalmente **somente às
+sextas-feiras**, até o encerramento do semestre em 11/12/2026.
+
+### ✅ Aulas concluídas
+
+| Nº | Data | Conteúdo |
+|---|---|---|
+| 1 | 28/08/2026 | Apresentação da disciplina, lógica de programação, ambiente Colab, `print()` e variáveis | - **4h/a** - NORMAL
+| 2 | 01/09/2026 | Tipos de dados básicos (`int`, `float`, `str`, `bool`) e `input()` | - **2h/a** - REPÕE DIA 07/08
+| 2 | 02/09/2026 | Tipos de dados básicos (`int`, `float`, `str`, `bool`) e `input()` | - **2h/a** - REPÕE DIA 07/08
+| 3 | 04/09/2026 | Expressões aritméticas, operadores e precedência | - **4h/a** - NORMAL
+| 4 | 08/09/2026 | Expressões aritméticas, operadores e precedência | - **2h/a** - REPÕE DIA 14/08
+| 4 | 09/09/2026 | Expressões aritméticas, operadores e precedência | - **2h/a** - REPÕE DIA 14/08
+| 5 | 11/09/2026 | Expressões lógicas/relacionais e estruturas de sequência | - **4h/a** - NORMAL
+
+**ATÉ AQUI TOTAL ==>  24 H/A**
+
+### 🔜 Aulas restantes (todas às sextas-feiras)
+
+| Nº | Data | Conteúdo |
+|---|---|---|
 
 
-| Aula | Data | Tipo | Conteúdo |
-|---|---|---|---|
-| 1 | 28/08/2026 | Regular | Apresentação da disciplina, lógica de programação, ambiente Colab, `print()` e variáveis |
-| 2 | 01/09/2026 | Reposição | Tipos de dados básicos (`int`, `float`, `str`, `bool`) e `input()` |
-| 3 | 02/09/2026 | Reposição | Expressões aritméticas, operadores e precedência |
-| 4 | 04/09/2026 | Regular | Expressões lógicas/relacionais e estruturas de sequência |
-| ... | ... | ... | ... |
-| — | 16/10/2026 | **Avaliação** | **P1** |
-| — | 13/11/2026 | **Avaliação** | **P2** |
-| — | 04/12/2026 | **Avaliação** | **P3** |
+**AUSÊNCIAS PROGRAMADAS: 18/09, 25/09, 02/10, 09/10 (TOTAL DE AUSENCIAS ==> 16 H/A)** 
 
-> 📌 O cronograma completo (com todas as 26 datas, reposições e conteúdos) está nos arquivos citados
-> acima.
+| 06 | 16/10/2026 | **AVALIAÇÃO P1** | - **4h/a**  - NORMAL
+| 07 | 23/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) | - **4h/a**  - NORMAL
+| 08 | 27/10/2026 | Estruturas de seleção múltipla (`elif`) e exercícios práticos | - **4h/a** ANTES E DEPOIS DA AULA - REPÕE DIA 18/09
+| 09 | 30/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) | - **4h/a**  - NORMAL
+| 10 | 03/11/2026 | Exercícios integrados — revisão geral (lógica, tipos, expressões, sequência, seleção) | - **2h/a** - REPÕE DIA 25/09
+| 10 | 04/11/2026 | Exercícios integrados — revisão geral (lógica, tipos, expressões, sequência, seleção) | - **2h/a** - REPÕE DIA 25/09
+| 11 | 06/11/2026 | Estruturas de repetição: `while`, `for` e laços aninhados | - **4h/a**  - NORMAL
+| 12 | 10/11/2026 | Modularidade e abstração: funções (`def`), parâmetros e retorno |- **2h/a** - REPÕE DIA 02/10
+| 12 | 11/11/2026 | Modularidade e abstração: funções (`def`), parâmetros e retorno |- **2h/a** - REPÕE DIA 02/10
+| 14 | 13/11/2026 | **AVALIAÇÃO P2** | - **4h/a** - NORMAL
+| 15 | 17/11/2026 | Funções (aprofundamento), modularização de programas | **2h/a** - REPÕE DIA 09/10
+| 15 | 18/11/2026 | Funções (aprofundamento), modularização de programas | **2h/a** - REPÕE DIA 09/10
+| 13 | 27/11/2026 | Listas, matrizes e strings | - **4h/a** - NORMAL
+| 14 | 04/12/2026 | **AVALIAÇÃO P3** | - **4h/a** - NORMAL
+| 15 | 11/12/2026 | DIVULGAÇÃO DOS RESULTADOS FINAIS | - **4h/a** - NORMAL
+
+
+
+O cronograma detalhado, com observações de cada sessão, também está disponível em
+[`Cronograma_IAL-003_Algoritmos_2026-2.pdf`](Cronograma_IAL-003_Algoritmos_2026-2.pdf).
 
 ---
 
@@ -87,7 +116,7 @@ O cronograma completo (26 sessões, entre aulas regulares e reposições) está 
 |---|---|---|
 | **P1** | Lógica de algoritmos, tipos de dados, expressões, sequência e seleção | 16/10/2026 |
 | **P2** | Estruturas de repetição, listas, matrizes, strings e funções | 13/11/2026 |
-| **P3** | Entrega/apresentação de projeto final estruturado | 04/12/2026 | *A COMBINAR*
+| **P3** | Entrega/apresentação de projeto final estruturado | 04/12/2026 *(formato a combinar)* |
 
 Além das provas, listas de exercícios e um **projeto prático** também compõem a avaliação
 contínua ao longo do semestre.
