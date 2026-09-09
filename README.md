@@ -81,11 +81,13 @@ sextas-feiras**, até o encerramento do semestre em 11/12/2026.
 
 ### 🔜 Aulas restantes (todas às sextas-feiras)
 
+**AUSÊNCIAS PROGRAMADAS: 18/09, 25/09, 02/10, 09/10 (TOTAL DE AUSENCIAS ==> 16 H/A)** 
+
 | Nº | Data | Conteúdo |
 |---|---|---|
 
 
-**AUSÊNCIAS PROGRAMADAS: 18/09, 25/09, 02/10, 09/10 (TOTAL DE AUSENCIAS ==> 16 H/A)** 
+
 
 | 06 | 16/10/2026 | **AVALIAÇÃO P1** | - **4h/a**  - NORMAL
 | 07 | 23/10/2026 | Estruturas de seleção simples (`if`) e composta (`if/else`) | - **4h/a**  - NORMAL
