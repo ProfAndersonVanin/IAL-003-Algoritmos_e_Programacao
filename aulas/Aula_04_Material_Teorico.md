@@ -113,6 +113,15 @@ operadores `and`, `or` e `not`, também retornando sempre um `bool`.
 | `False` | `True` | `True` |
 | `False` | `False` | `False` |
 
+### Tabela-verdade do `xor`
+
+| A | B | A or B |
+|---|---|---|
+| `True` | `True` | `False` |
+| `True` | `False` | `True` |
+| `False` | `True` | `True` |
+| `False` | `False` | `False` |
+
 ### Tabela-verdade do `not`
 
 | A | not A |
