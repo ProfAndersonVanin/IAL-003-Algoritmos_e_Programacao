@@ -273,6 +273,28 @@ Peça ao usuário três números inteiros e, usando apenas expressões relaciona
 > 💡 **Entrega:** salve seu notebook no Google Drive (*Arquivo → Salvar uma cópia no Drive*) com o
 > nome `Aula04_SeuNome.ipynb` e envie o link conforme orientação do professor.
 
+### Exercício EXTRA
+Determine o resultado das seguintes expressões. Dados: 
+- `A = 8`
+- `B = 5`
+- `C = -4`
+- `D = 2`
+
+a) `Delta = B² - 4 * A * C`
+
+b) `J = "Hoje" <> "HOJE"`
+
+c) `Media = (A + B + C + D)/4`
+
+d) `Media = A + B + C + D/4`
+
+e) `Resultado = A + B – 10 * C`
+
+f) `Y = A > 8 AND B + C > D`
+
+g) `Y = A > 3 * 2 OR B + C <> D`
+
+
 ---
 
 ## Resumo da aula
