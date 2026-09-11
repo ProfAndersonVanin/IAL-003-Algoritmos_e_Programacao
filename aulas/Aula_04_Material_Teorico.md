@@ -93,6 +93,7 @@ operadores `and`, `or` e `not`, também retornando sempre um `bool`.
 | `and` | **E** — verdadeiro somente se **ambas** as condições forem verdadeiras | `True and True` → `True` |
 | `or` | **OU** — verdadeiro se **pelo menos uma** das condições for verdadeira | `True or False` → `True` |
 | `not` | **NÃO** — inverte o valor lógico | `not True` → `False` |
+| `xor` | **OU_EXCLUSIVO** - A função avalia dois operandos e retorna True(ou 1) somente se as entradas forem diferentes. Se as entradas forem iguais, ela retorna False(ou 0) | `True ^ False` → `True` |
 
 ### Tabela-verdade do `and`
 
