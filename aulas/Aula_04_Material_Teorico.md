@@ -151,6 +151,18 @@ print("Vou levar guarda-chuva?", chove)
 print("Vou sem guarda-chuva?", not chove)
 ```
 
+```python
+print(True ^ False)  # Saída: True
+print(True ^ True)   # Saída: False
+print(False ^ False) # Saída: False
+
+# Examplo com condicional
+x = 10
+print((x > 5) ^ (x < 20)) 
+# True ^ True -> Saída: False
+
+```
+
 ### Combinando várias condições
 
 É possível combinar mais de duas condições na mesma expressão. Assim como nos operadores aritméticos,
