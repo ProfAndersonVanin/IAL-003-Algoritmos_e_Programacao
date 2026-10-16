@@ -92,8 +92,11 @@ Resposta:
 Assinale a alternativa que contém um nome de variável válido em Python:
 
 a) ( ) `2idade`
+
 b) ( ) `nome completo`
+
 **c) (X) `nota_final`**
+
 d) ( ) `class`
 
 ---
@@ -142,8 +145,11 @@ b) Reescreva a segunda linha para que o código funcione corretamente. *(0,25 pt
 Sobre a função `input()`, assinale a afirmação correta:
 
 a) ( ) `input()` sempre retorna um valor do tipo `int`.
+
 **b) (X) `input()` sempre retorna um valor do tipo `str`.**
+
 c) ( ) `input()` identifica automaticamente se o valor digitado é texto ou número.
+
 d) ( ) `input()` não pode ser usado junto com `print()`.
 
 ---
@@ -167,6 +173,7 @@ d) `10 % 3` = **1**
 Explique, com suas palavras, a diferença entre os operadores `/` e `//` em Python. Em seguida, dê um exemplo de uma situação prática em que faria sentido usar o operador `%`. *(diferença entre `/` e `//`: 0,5 pt; exemplo de uso do `%`: 0,25 pt)*
 
 **`/` é a divisão comum e sempre retorna `float`; `//` é a divisão inteira e descarta a parte decimal.**
+
 **qualquer situação coerente (par/ímpar, converter minutos em horas e minutos, sobra de uma divisão em grupos etc.)**
 
 ---
@@ -181,7 +188,7 @@ resultado = 2 + 4 ** 2 - 6 / 3
 
 Resolução e resposta:
 
-**`4 ** 2 = 16`; `6 / 3 = 2.0`; `2 + 16 = 18`; `18 - 2.0`. *(Potência primeiro e divisão antes da soma/subtração: 0,25 cada.)***
+**`4 ** 2 = 16`; `6 / 3 = 2.0`; `2 + 16 = 18`; `18 - 2.0`. *(Potência primeiro e divisão antes da soma/subtração.)***
 
 ---
 
@@ -229,8 +236,11 @@ Reescreva a expressão de forma que o resultado seja `True`, sem alterar o valor
 O que caracteriza uma estrutura de sequência em um algoritmo?
 
 a) ( ) A repetição de um bloco de instruções várias vezes podendo conter desvios na programação.
+
 **b) (X) A execução de instruções, uma após a outra, na ordem em que aparecem, sem desvios.**
+
 c) ( ) A escolha entre dois ou mais caminhos possíveis, de acordo com uma condição.
+
 d) ( ) A divisão do programa em funções menores que são executadas sequencialmente.
 
 ---
@@ -248,8 +258,11 @@ resultado = a % b == 2 or not (a > b)
 Qual é o valor armazenado em `resultado`?
 
 **a) (X) `True` (`8 % 3 = 2`, `2 == 2` é `True`; com `or`, o resultado é `True`**
+
 b) ( ) `False`
+
 c) ( ) `2`
+
 d) ( ) A expressão gera um erro de execução.
 
 ---
