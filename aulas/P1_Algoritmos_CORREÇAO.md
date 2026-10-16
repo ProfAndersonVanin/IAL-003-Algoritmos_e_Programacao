@@ -29,8 +29,11 @@
 Marque a alternativa que melhor define o que é um algoritmo:
 
 a) ( ) Um programa escrito exclusivamente na linguagem Python para realizar uma tarefa ou problema.
+
 **b) (X) Uma sequência finita e ordenada de passos que resolve um problema ou realiza uma tarefa.**
+
 c) ( ) Um conjunto de regras que só pode ser executado por um computador uma única vez.
+
 d) ( ) Um tipo de variável usado para armazenar números inteiros a fim de realizar cálculos complexos.
 
 ---
@@ -40,8 +43,11 @@ d) ( ) Um tipo de variável usado para armazenar números inteiros a fim de real
 São características de um bom algoritmo, **exceto**:
 
 a) ( ) Finitude — deve terminar em um número finito de passos.
+
 b) ( ) Precisão — cada passo deve ser claro e sem ambiguidade.
+
 **c) (X) Ambiguidade — mais de uma interpretação para o mesmo passo.**
+
 d) ( ) Eficácia — cada instrução deve ser executável.
 
 ---
