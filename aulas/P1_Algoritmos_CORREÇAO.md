@@ -190,6 +190,8 @@ Resolução e resposta:
 
 **`4 ** 2 = 16`; `6 / 3 = 2.0`; `2 + 16 = 18`; `18 - 2.0`. *(Potência primeiro e divisão antes da soma/subtração.)***
 
+**16.0**
+
 ---
 
 ### Questão 12 (0,5 pt)
